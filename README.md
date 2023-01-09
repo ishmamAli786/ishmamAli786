@@ -4,9 +4,7 @@
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" alt="coding" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmamali786&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamali786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishmamali786" alt="ishmamali786" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ishmam ali" target="blank"><img src="https://img.shields.io/twitter/follow/ishmam ali?logo=twitter&style=for-the-badge" alt="ishmam ali" /></a> </p>
+<p align="left"> <a href="https://twitter.comishmam-ali/" target="blank"><img src="https://img.shields.io/twitter/follow/ishmam ali?logo=twitter&style=for-the-badge" alt="ishmam ali" /></a> </p>
 
 - 🔭 I’m currently working on [AdeelBux](adeelbux.com/app)
 
@@ -20,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ishmam ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishmam ali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishmam ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishmam ali" height="30" width="40" /></a>
-<a href="https://fb.com/ishmam ali khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishmam ali khan" height="30" width="40" /></a>
-<a href="https://instagram.com/ishmam ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishmam ali" height="30" width="40" /></a>
+<a href="https://twitter.com/ishmam-ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishmam ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishmam-ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishmam ali" height="30" width="40" /></a>
+<a href="https://fb.com/ishmamalikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishmam ali khan" height="30" width="40" /></a>
+<a href="https://instagram.com/ishmam-ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishmam ali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
