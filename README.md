@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ishmamali" target="blank"><img src="https://img.shields.io/twitter/follow/ishmamali?logo=twitter&style=for-the-badge" alt="ishmamali" /></a> </p>
 <p align="left"></p>
-- 🔭 I’m currently working on **occasional base system**
+- 🔭 I’m currently working on FinTech System
 
 - 🌱 I’m currently learning **Web.3 And Metaverse**
 
