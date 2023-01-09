@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ishmam Ali Khan</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" alt="coding" width="400"/>
+<p align="left"></p>
 
+<p align="left"></p>
 - 🔭 I’m currently working on [AdeelBux](adeelbux.com/app)
 
 - 🌱 I’m currently learning **Web.3 And Metaverse**
